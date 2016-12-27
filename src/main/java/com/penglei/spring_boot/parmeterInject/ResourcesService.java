@@ -1,4 +1,4 @@
-package com.penglei.spring_boot.parmeterInject;
+package com.penglei.spring_boot.parmeterinject;
 
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Autowired;

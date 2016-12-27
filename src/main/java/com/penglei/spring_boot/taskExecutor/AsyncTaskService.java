@@ -1,4 +1,4 @@
-package com.penglei.spring_boot.taskExecutor;
+package com.penglei.spring_boot.taskexecutor;
 
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;

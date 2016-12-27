@@ -1,4 +1,4 @@
-package com.penglei.spring_boot.javaConfig;
+package com.penglei.spring_boot.javaconfig;
 
 import org.springframework.context.annotation.Bean;
 

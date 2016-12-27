@@ -1,4 +1,4 @@
-package com.penglei.spring_boot.taskExecutor;
+package com.penglei.spring_boot.taskexecutor;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

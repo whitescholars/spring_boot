@@ -1,4 +1,4 @@
-package com.penglei.spring_boot.parmeterInject;
+package com.penglei.spring_boot.parmeterinject;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

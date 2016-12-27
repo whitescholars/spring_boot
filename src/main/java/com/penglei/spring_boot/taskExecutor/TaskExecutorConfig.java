@@ -1,4 +1,4 @@
-package com.penglei.spring_boot.taskExecutor;
+package com.penglei.spring_boot.taskexecutor;
 
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler;
 import org.springframework.context.annotation.ComponentScan;
@@ -13,7 +13,7 @@ import java.util.concurrent.Executor;
  * Created by pl on 2016/12/27.
  */
 @Configuration
-@ComponentScan("com.penglei.spring_boot.taskExecutor")
+@ComponentScan("com.penglei.spring_boot.taskexecutor")
 @EnableAsync
 public class TaskExecutorConfig implements AsyncConfigurer{
     @Override
