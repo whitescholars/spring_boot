@@ -9,10 +9,5 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 public class Main {
     public static void main(String[] args) {
         AnnotationConfigApplicationContext context=new AnnotationConfigApplicationContext(TaskSchedulerConfig.class);
-       /* SchedulerService schedulerService=context.getBean(SchedulerService.class);*//*
-      *//*  schedulerService.reportCurretTime();
-        schedulerService.reportCurretTime1();
-        schedulerService.fixTimeExecute();*//*
-      *//*  context.close();*/
     }
 }
